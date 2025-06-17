@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+div {
+  width: 300px;
+  padding: 20px;
+  border: 5px solid #333;
+  background-color: #d3eaff;
+  margin-bottom: 20px;
+}
+
+.div1 {
+  box-sizing: content-box;
+}
+
+.div2 {
+  box-sizing: border-box;
+}

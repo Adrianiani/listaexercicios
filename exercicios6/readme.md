@@ -1,0 +1,1 @@
+a com content box (padrão) ultrapassou, pois nesse box sizing o padding e border são adicionados fora da largura inicial
